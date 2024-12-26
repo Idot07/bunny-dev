@@ -1,7 +1,6 @@
-# Vendetta Plugins Template
-This repo contains a template for creating [Vendetta](https://github.com/vendetta-mod/Vendetta) plugins.
+[![Build and deploy](https://github.com/Idot07/bunny-dev/actions/workflows/deploy.yml/badge.svg)](https://github.com/Idot07/bunny-dev/actions/workflows/deploy.yml)
 
 # How to install?
-Paste a plugin URL into the Plugins page of Vendetta, following a basic format of:
+Follow this basic format while sending "POST" to the *"backend"*:
 
 https://`YOUR_GITHUB_USERNAME`.github.io/`REPO_NAME`/`PLUGIN_NAME`
